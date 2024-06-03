@@ -6,7 +6,7 @@ Meu nome é Lauren Vitória
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus proetos desenvolvidos
 
-- ### VocÊ em contato comigo 📫
+- ### VocÊ entrar em contato comigo 📫
 
 - laurenvitoria28@gmail.com
   
